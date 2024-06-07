@@ -4,6 +4,6 @@
 
 # Service for searching and booking tours
 
-This project was made to practice layout using a template from Figma using pure HTML and CSS. Also, several interactive elements were added to it using pure JavaScript and connecting several third-party libraries. The site is adapted for various devices.
+This project was created for practice at BRICS College, layout using Figma template using pure HTML and CSS. It also added several interactive elements using pure JavaScript and connecting several third-party libraries. The site is adapted for various devices.
 <br/>
 [Explore the demo by following this link](https://nikolaydlv.github.io/tours-booking-service/)
